@@ -287,3 +287,9 @@ Feature engineering using lag and rolling features significantly improved model 
 Among the tested models, **XGBoost achieved the best performance**, producing stable and realistic demand predictions.
 
 Overall, this project demonstrates how historical retail data can be transformed into actionable demand forecasts to support better inventory planning and data-driven business decisions.
+
+
+## 👤 Author
+
+**Umniyat Hausawi**  
+Aspiring Data Scientist | AI & NLP Projects
